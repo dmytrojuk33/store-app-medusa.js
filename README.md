@@ -1,13 +1,5 @@
 # Book Shop
 
-
-### Participants
-
-| GitHub        | Discord          | Twitter        |
-| :------------ |   :-----      | :------------ |
-| [@akarsh-jain-790](https://github.com/akarsh-jain-790/) | Akarsh#5717        | [@akarsh__jain](https://twitter.com/akarsh__jain)   |
-| [@tanishk-23](https://github.com/tanishk-23)            | Tanishk_jain#1231            | [@TanishkJain19](https://twitter.com/TanishkJain19)    |
-
 ### Description
 
 
